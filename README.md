@@ -16,7 +16,7 @@ Official repository for the conference paper:
 
 ## 🧠 About the Project
 
-South Asian traffic signs often suffer from **faded paint**, **visual clutter**, and **non-standard variations**, making Western datasets like GTSRB insufficient. To address this, I developed **BTSR-13**, a specialized dataset of **8,386 images across 13 local classes**, and benchmarked multiple deep learning architectures.
+South Asian traffic signs often suffer from **faded paint**, **visual clutter**, and **non-standard variations**, making Western datasets like GTSRB insufficient. To address this, We developed **BTSR-13**, a specialized dataset of **8,386 images across 13 local classes**, and benchmarked multiple deep learning architectures.
 
 Our best-performing model, **Vision Transformer (ViT)**, achieved **99.91% accuracy**, demonstrating strong robustness in real Bangladeshi road environments.
 
