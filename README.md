@@ -11,8 +11,41 @@ Official repository for the conference paper:
 - 📘 **Conference:** 2nd International Conference on Big Data, IoT and Machine Learning  
 - 📦 **Dataset (BTSR-13) – Kaggle:** [https://www.kaggle.com/datasets/musfiqurtuhin/bangladeshi-traffic-signs-btsr-13](https://www.kaggle.com/datasets/musfiqurtuhin/bangladeshi-traffic-signs-btsr-13)  
 - 🤗 **Dataset Mirror – HuggingFace:** [https://huggingface.co/datasets/musfiqurtuhin/BTSR-13](https://huggingface.co/datasets/musfiqurtuhin/BTSR-13)  
+---
+
+## 📝 Citation (Springer Format)
+
+If you use the dataset or code, please cite:
+
+```bibtex
+@InProceedings{10.1007/978-981-99-8937-9_37,
+  author="Tusher, Md. Mahbubur Rahman and Kafi, Hasan Muhammad and Rinky, Susmita Roy and Islam, Muhiminul and Rahman, Md. Musfiqur",
+  editor="Arefin, M. Shamim and Kaiser, M. Shamim and Bhuiyan, Towhid and Dey, Nilanjan and Mahmud, Mufti",
+  title="A Comparative Analysis of Various Deep Learning Models for Traffic Signs Recognition from the Perspective of Bangladesh",
+  booktitle="Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning (BIM)",
+  year="2024",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="547--557",
+  isbn="978-981-99-8937-9",
+  doi="10.1007/978-981-99-8937-9_37"
+}
+```
 
 ---
+---
+
+## 👥 Authors & Affiliations
+
+### Bangladesh Army University of Science and Technology (BAUST), Saidpur
+- Md. Mahbubur Rahman Tusher
+- Hasan Muhammad Kafi
+- Susmita Roy Rinky
+- Muhiminul Islam
+
+### United International University (UIU), Dhaka
+- Md. Musfiqur Rahman
+
 
 ## 🧠 About the Project
 
@@ -107,47 +140,3 @@ Or open the notebook directly:
 jupyter notebook notebooks/00_vit_champion_model.ipynb
 ```
 
----
-
-## 👥 Authors & Affiliations
-
-### Bangladesh Army University of Science and Technology (BAUST), Saidpur
-- Md. Mahbubur Rahman Tusher
-- Hasan Muhammad Kafi
-- Susmita Roy Rinky
-- Muhiminul Islam
-
-### United International University (UIU), Dhaka
-- Md. Musfiqur Rahman
-
----
-
-## 📝 Citation (Springer Format)
-
-If you use the dataset or code, please cite:
-
-```bibtex
-@InProceedings{10.1007/978-981-99-8937-9_37,
-  author="Tusher, Md. Mahbubur Rahman and Kafi, Hasan Muhammad and Rinky, Susmita Roy and Islam, Muhiminul and Rahman, Md. Musfiqur",
-  editor="Arefin, M. Shamim and Kaiser, M. Shamim and Bhuiyan, Towhid and Dey, Nilanjan and Mahmud, Mufti",
-  title="A Comparative Analysis of Various Deep Learning Models for Traffic Signs Recognition from the Perspective of Bangladesh",
-  booktitle="Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning (BIM)",
-  year="2024",
-  publisher="Springer Nature Singapore",
-  address="Singapore",
-  pages="547--557",
-  isbn="978-981-99-8937-9",
-  doi="10.1007/978-981-99-8937-9_37"
-}
-```
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-We extend our gratitude to all contributors and the open-source community for making this research possible.
