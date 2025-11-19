@@ -1,4 +1,4 @@
-# 🇧🇩 Traffic Sign Recognition for Bangladesh (BIM 2024)
+# 🇧🇩 Traffic Sign Recognition for Bangladesh 
 
 Official repository for the conference paper:  
 **"A Comparative Analysis of Various Deep Learning Models for Traffic Signs Recognition from the Perspective of Bangladesh"**
@@ -8,7 +8,7 @@ Official repository for the conference paper:
 ## 🔗 Quick Links
 
 - 📄 **Paper (Springer / DOI):** [https://doi.org/10.1007/978-981-99-8937-9_37](https://doi.org/10.1007/978-981-99-8937-9_37)  
-- 📘 **Conference:** 2nd International Conference on Big Data, IoT and Machine Learning (BIM 2024)  
+- 📘 **Conference:** 2nd International Conference on Big Data, IoT and Machine Learning  
 - 📦 **Dataset (BTSR-13) – Kaggle:** [https://www.kaggle.com/datasets/musfiqurtuhin/bangladeshi-traffic-signs-btsr-13](https://www.kaggle.com/datasets/musfiqurtuhin/bangladeshi-traffic-signs-btsr-13)  
 - 🤗 **Dataset Mirror – HuggingFace:** [https://huggingface.co/datasets/musfiqurtuhin/BTSR-13](https://huggingface.co/datasets/musfiqurtuhin/BTSR-13)  
 
