@@ -140,15 +140,6 @@ If you use the dataset or code, please cite:
   doi="10.1007/978-981-99-8937-9_37"
 }
 ```
-
----
-
-## 📬 Contact
-
-**Md. Musfiqur Rahman**
-- **GitHub:** [https://github.com/MusfiqurTuhin](https://github.com/MusfiqurTuhin)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 ## 📄 License
