@@ -107,10 +107,10 @@ Models initialized with **ImageNet weights** converged **40% faster** than basel
 The **Fine-Tuning step** (unfreezing layers) resulted in significant accuracy improvements, critical for safety-critical applications like traffic sign recognition in real-world road environments.
 
 ### 4. Model Efficiency Trade-offs
-- **ViT:** 97.92% validation accuracy—excellent generalization
-- **DenseNet201:** 98.76% validation accuracy—highest performance, moderate computational cost
-- **MobileNetV2:** 96.75% validation accuracy—ideal for embedded systems and mobile deployment
-- **VGG19:** 97.06% validation accuracy—strong generalization despite simpler architecture
+- **ViT:** 97.92% validation accuracy—excellent generalization.
+- **DenseNet201:** 98.76% validation accuracy—highest performance, moderate computational cost.
+- **MobileNetV2:** 96.75% validation accuracy—ideal for embedded systems and mobile deployment.
+- **VGG19:** 97.06% validation accuracy—strong generalization despite simpler architecture.
 
 ### 5. Poor Performers
 - **EfficientNetB2:** 49.35% validation accuracy—hyperparameter tuning needed
