@@ -1,0 +1,13 @@
+# Mac System Files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets (Too big for GitHub)
+*.zip
+dataset/train/
+dataset/test/
+dataset/val/
